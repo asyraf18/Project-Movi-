@@ -6,6 +6,7 @@ How to use:
 5. npm install.
 
 (clean project)
+
 yarn add -D react-native-clean-project
 
 
