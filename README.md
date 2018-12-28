@@ -1,8 +1,8 @@
 How to use:
 1. react-native init "yourprojectname"
 2. cd "yourappname"
-3. npm i
-4. Integrate Firebase.
+3. Integrate Firebase.
+4. npm i
 5. npm install.
 
 (clean project)
