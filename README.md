@@ -1,3 +1,14 @@
+How to use:
+1. react-native init "yourprojectname"
+2. cd "yourappname"
+3. npm i
+4. Integrate Firebase.
+5. npm install.
+
+(clean project)
+yarn add -D react-native-clean-project
+
+
 # Project-Movi-
 Application for booking ticket 
 Mobile Application Development
